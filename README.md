@@ -1,14 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&color=F78242&random=false&width=435&lines=Ol%C3%A1!+%3A);Meu+nome+%C3%A9+Daniel+Vidal!;Bem+vindo+a+minha+biografia+DEV." alt="Typing SVG" /></a>
 
-- 🔭 Estudando Desenvolvimento de Sistemas
-- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&duration=4000&pause=1000&color=F78242&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+%3A);Meu+nome+%C3%A9+Daniel+Vidal!;Bem+vindo+a+minha+biografia+DEV.)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vidalxv&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Jean github stats"/> 
 </div>
 
 
-# 💻 Best Technologies:
+# 💻 Melhores tecnólogias:
 <br>
   
 - <div style="display: inline_block"><br>
