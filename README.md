@@ -1,5 +1,5 @@
-### Olá, meu nome é Daniel Vidal!
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&color=F78242&random=false&width=435&lines=Ol%C3%A1!+%3A);Meu+nome+%C3%A9+Daniel+Vidal!;Bem+vindo+a+minha+biografia+DEV." alt="Typing SVG" /></a>
 
 - 🔭 Estudando Desenvolvimento de Sistemas
 - 
@@ -27,3 +27,4 @@
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
