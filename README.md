@@ -11,7 +11,7 @@
 </div>
 
 
-# 💻 Melhores tecnólogias:
+# 💻 Melhores tecnológias:
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="vidal-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vidal-java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
