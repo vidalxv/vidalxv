@@ -2,7 +2,14 @@
 
 
 - 🔭 Estudando Desenvolvimento de Sistemas
+- 
+<div align="center">  
+  <img width="49%" height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vidalxv&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Jean github stats"/> 
+</div>
 
+
+# 💻 Best Technologies:
+<br>
   
 - <div style="display: inline_block"><br>
   <img align="center" alt="vidal-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,10 +19,8 @@
   <img align="center" alt="vidal-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 </div>
 
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalxv&layout=compact&langs_count=7&theme=tokyonight"/>
  
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/vidalxv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vidalffyt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
