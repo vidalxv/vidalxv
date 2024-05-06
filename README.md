@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F78242&height=120&section=header"/>
 
 <div align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F78242&center=true&random=false&width=500&lines=Ol%C3%A1!+%3A);Meu+nome+%C3%A9+Daniel+Vidal!;Bem+vindo+ao+meu+portif%C3%B3lio." alt="Typing SVG" /></a></div>
@@ -35,5 +35,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vidalxv/vidalxv/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vidalxv/vidalxv/output/github-contribution-grid-snake.svg">
 </picture>
-
-<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
